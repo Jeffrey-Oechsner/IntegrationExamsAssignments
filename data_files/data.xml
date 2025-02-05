@@ -1,0 +1,6 @@
+<person>
+    <navn>Test Bruger</navn>
+    <alder>30</alder>
+    <aktiv>true</aktiv>
+    <saldo>9999.99</saldo>
+</person>
